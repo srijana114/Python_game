@@ -1,1 +1,1 @@
-# tohar buriiiii
+print("Hello world!")
